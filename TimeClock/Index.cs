@@ -79,7 +79,7 @@ namespace TimeClock
                     return;
                 }
 
-                if (hoursParsed && minutesParsed && secondsParsed)// check if all the local variable for the parsing are true
+                if (hoursParsed && minutesParsed && secondsParsed)//check if all the local variable for the parsing are true
                 {
                     setTime = hours * 3600 + minutes * 60 + seconds;
                     remainingTime = hours * 3600 + minutes * 60 + seconds;
