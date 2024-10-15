@@ -1,0 +1,10 @@
+C:\Users\renau\source\repos\TimeClock\TimeClock\bin\Debug\TimeClock.exe.config
+C:\Users\renau\source\repos\TimeClock\TimeClock\bin\Debug\TimeClock.exe
+C:\Users\renau\source\repos\TimeClock\TimeClock\bin\Debug\TimeClock.pdb
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.csproj.AssemblyReference.cache
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.Index.resources
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.Properties.Resources.resources
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.csproj.GenerateResource.cache
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.csproj.CoreCompileInputs.cache
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.exe
+C:\Users\renau\source\repos\TimeClock\TimeClock\obj\Debug\TimeClock.pdb
