@@ -36,7 +36,7 @@ Key Features:
 
 ### Getting Started
 
-1. Click [here](./1.0.0_TimeClock) to download the file.
+1. Click [here](https://github.com/RenaudBaussart/timer_windowsform_app/archive/refs/heads/main.zip) to download the file or clone / forke the repo. 
 2. Launch `setup.exe`.
 3. And voilà! You now have the application installed.
 4. To uninstall it, simply go to the app manager and uninstall it like any other application.
